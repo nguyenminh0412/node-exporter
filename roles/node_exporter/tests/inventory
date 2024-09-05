@@ -1,0 +1,2 @@
+[node_exporter]
+dc2d-sys-minhndt-lab-02.citigo.io ansible_host=10.24.28.117 ansible_user=minh.ndt

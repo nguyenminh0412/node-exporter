@@ -1,0 +1,6 @@
+---
+# handlers file for node_exporter
+- name: Restart Prometheus
+  ansible.builtin.systemd:
+    name: prometheus
+    state: restarted
